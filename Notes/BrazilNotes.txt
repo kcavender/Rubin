@@ -24,6 +24,42 @@ Human Response to Recurrent Drought in Northeastern Brazil
 (40) "But the most terrible drought of all was that of 1877 which came after 32 years of good winter rains."
 (41) "The peasant farmer, who lives at a semi-subsistence level, plants his beans, corn and sweet potatoes at the usual time only to discover that expected rains fail to arrive. When his planting dries up he uses more precious seed to replant, and if necessary, again. If all his plantings wither and the clouds withhold his precious rain, the farmer, now at the end of his resources, cries for help. Drought is real to him, for starvation follows closely behind."
 (42) "But there were problems utilizing slaves in the upper northeast; it was an unprofitable venture. The seasons were too arid and irregular and much of the year there was little for the slaves to do. It is noteworthy that they were given freedom first in Ceará, due especially to the calamitous droughts of that region which destroyed so many of them. In fact, it was the infamous drought of 1877 which definitively ended slavery in Ceará, an event which anticipated the emancipation of all slaves throughout Brazil in 1888."
-(42) "Perhaps one of the more easily observed ruptures in the social fabric is the frenzied outward movement of large numbers of the inhabitants to other parts of Brazil"
+(42) "Perhaps one of the more easily observed ruptures in the social fabric is the frenzied outward movement of large numbers of the inhabitants to other parts of Brazil
 (43) "The first large drought-impelled outward movement occurred during the dreadful drought of '77. A government pressed on all sides by masses they could not feed decided that the best alternative was to ship thousands of the drought fugitives to the Amazon where they could start over. This was the beginning of that great migrant flow which continued for more than fifty years These migrants, who faced the ravages of malaria instead of drought, contributed substantially to the settlement of vast regions of the Amazonian rainforest and supplied hands to harvest the rubber trees. More than 54,000 were known to have sailed from Ceará state alone during the crisis of 1877."
+
+
+Migration Dynamics in the Interior of Ceará, Brazil
+Paper based on a study in the 1960s
+
+Lots of internal migration in Ceara that cannot be explained by the droughts.
+
+Govt has intermittently invested in the region in response to droughts. This usually increases in drought years and decreases afterwards. This provides some jobs (road building, dam building, etc) to individuals that can tide them over
+
+Subsistence labor is essential, and food grown is similar to that grown there before colonization
+
+Primary industries are cattle and cotton; estates are large
+
+(238) "Subsistence agriculture, which began as a necessity, has gradually but persistently assumed increasing economic importance in the area. The plantations must in large measure support all resident members of the community - owners, managers, workers, and their families."
+
+work was at this point (1960s) still mainly non mechanized.
+
+Main issue with drought is not the severity, but the irregularity - making it hard to prepare for.
+
+(240) "Despite this condition *sertanejos* display strong attachments for the region; they leave it in the majority of cases only when forced to in order to survive, and even then temporarily."
+
+The region is defined by a semi-nomadic pattern: peasants constantly move between plantations for various reasons.
+
+Most peasants reside in nuclear families, and they have some land granted them by the landlords to plant. Unmarried individuals primarily rely on wage work.
+
+During droughts landlords may provide peasants with some work, such as irrigation or dam building. Peasants will sometimes save up and start their own small farms, but they are much less stable and often fail at the first drought, driving them back to the larger estates. 
+
+(248) "Thus, there are marginal resources or other assets that a landlord may divert to peasant needs in times of drought, so that the latter's economic resources are not entirely depleted."
+
+Landlords have both rights over their peasants as well as duties to them.
+
+(251-2) "Peasants expect owners to act as intermediaries between themselves and the institutions of the larger society"
+-this is a crucial and interesting paragraph.
+
+The article closes with the assertion that the predictable stresses that don't threaten human life do more in shaping the society than the large, and unpredictable threats of great droughts.
+
 

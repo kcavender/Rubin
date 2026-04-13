@@ -1,2 +1,3 @@
 \contentsline {section}{\numberline {1}Capitalism - A Global History, Sven Beckert}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Meeting One}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Chapter 3 - The Great Connectiong, 1450-1650}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Chapter 4 - Transforming the Countryside, 1550-1750}{3}{}%
